@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+
+.sec1{
+    width: 1000%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn1{
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
