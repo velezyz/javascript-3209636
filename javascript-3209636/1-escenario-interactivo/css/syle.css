@@ -23,7 +23,7 @@ align-items: center;
     width: 70px;
     position: absolute;
     background-size: cover;
-    top: 430px;
+    top: 380px;
     right: 970px;
 }
 
@@ -31,6 +31,43 @@ align-items: center;
     width: 250px;
     position: absolute;
     background-size: cover;
-    top: 203px;
-    right: 150px;
+    top: 150px;
+    right: 300px;
 }
+
+.nube img{
+    width: 100px;
+    position: absolute;
+    background-size: cover;
+    top: 100px;
+    right: 600px;
+    
+}
+
+.nube2 img{
+    width: 100px;
+    position: absolute;
+    background-size: cover;
+    top: 100px;
+    right: 900px;
+    
+}
+
+.nube3 img{
+    width: 100px;
+    position: absolute;
+    background-size: cover;
+    top: 170px;
+    right: 770px;
+    
+}
+
+.tunel img{
+    width: 70px;
+    position: absolute;
+    background-size: cover;
+    top: 366px;
+    right: 770px;
+    
+}
+
