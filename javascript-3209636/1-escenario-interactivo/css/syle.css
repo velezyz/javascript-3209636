@@ -5,6 +5,8 @@ section{
     justify-content: center;
     align-items: center;
     display: flex;
+    min-width: 750px;
+    position: relative;
 }
 
 .fondo{
@@ -23,24 +25,24 @@ align-items: center;
     width: 70px;
     position: absolute;
     background-size: cover;
-    top: 380px;
-    right: 970px;
+    top: 58%;
+    left: 24%;
 }
 
 .castillo img{
     width: 250px;
     position: absolute;
     background-size: cover;
-    top: 150px;
-    right: 300px;
+    top: 22%;
+    left: 59%;
 }
 
 .nube img{
     width: 100px;
     position: absolute;
     background-size: cover;
-    top: 100px;
-    right: 600px;
+    top: 20%;
+    right: 40%;
     
 }
 
@@ -48,8 +50,8 @@ align-items: center;
     width: 100px;
     position: absolute;
     background-size: cover;
-    top: 100px;
-    right: 900px;
+    top: 20%;
+    right: 65%;
     
 }
 
@@ -57,8 +59,8 @@ align-items: center;
     width: 100px;
     position: absolute;
     background-size: cover;
-    top: 170px;
-    right: 770px;
+    top: 26%;
+    right: 55%;
     
 }
 
@@ -66,8 +68,8 @@ align-items: center;
     width: 70px;
     position: absolute;
     background-size: cover;
-    top: 366px;
-    right: 770px;
+    top: 57%;
+    right: 55%;
     
 }
 
